@@ -1,2 +1,2 @@
 # Kotlin-Basics
-A simple project im using to understand the basics of kolin
+A simple to-do project I'm using to understand the basics of Kolin
